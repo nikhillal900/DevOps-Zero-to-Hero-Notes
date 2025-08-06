@@ -50,7 +50,7 @@ I created a virtual machine on the cloud using AWS EC2.
   ![Instance](./Screenshots/instance-ready.png)
 
 - SSH Connection  
-  ![SSH](./Screenshots/-ssh-connection.png)
+  ![SSH](./Screenshots/ssh-connection.png)
 
 ---
 
