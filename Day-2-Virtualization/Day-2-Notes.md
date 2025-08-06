@@ -41,16 +41,16 @@ I created a virtual machine on the cloud using AWS EC2.
 > Screenshots are stored in `Day-2-Virtualization/screenshots/`
 
 - Launch EC2 instance  
-  ![Launch](./screenshots/Launch-instance.png)
+  ![Launch](./Screenshots/Launch-instance.png)
 
 - Create Key Pair  
-  ![Key Pair](./screenshots/Key-pair.png)
+  ![Key Pair](./Screenshots/Key-pair.png)
 
 - Instance Ready  
-  ![Instance](./screenshots/instance-ready.png)
+  ![Instance](./Screenshots/instance-ready.png)
 
 - SSH Connection  
-  ![SSH](./screenshots/-ssh-connection.png)
+  ![SSH](./Screenshots/-ssh-connection.png)
 
 ---
 
