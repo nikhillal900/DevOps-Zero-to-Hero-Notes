@@ -81,7 +81,7 @@ aws ec2 describe-instances
   ![Created EC2](./Screenshots/createdEC2.png)
 
 - Describe Instance Output  
-  ![Describe](./Screenshots/detailsEC2.png)
+  ![Describe](./Screenshots/DetailsEC2.png)
 
 - SSH Access Confirmation  
   ![SSH CLI](./Screenshots/sshconnect.png)
